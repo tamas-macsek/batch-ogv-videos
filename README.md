@@ -43,5 +43,5 @@ Resources:
 Contact info:
 -------------
 Created by: Thomas Machek
-Email: mactomaso@gmail.com
+Email: tamas.macsek@gmail.com
 Skype: macsek.tamas
