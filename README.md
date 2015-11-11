@@ -9,8 +9,8 @@ The supported source video formats are:
 
 usage
 -----
-The script must be runned from that directory where the source video files are. First of all we have to
-add execution permission for that file, which can be done with the following in the terminal window:
+The script must be executed from that directory where the source video files are. First of all we have to
+add execution permission for that file, which can be done with the following command in the terminal window:
 
 chmod +x batch_encoding.sh
 
@@ -21,7 +21,7 @@ To run the script we should do the following in terminal
 ./batch_encoding.sh
 
 This will get all the files in the working directory which has the extension we defined in the script (see: options).
-The script runs over the media files one by one and convert the videos with the given predefined options (see: options).
+The script runs all over the media files one by one and converts the videos with the given predefined options (see: options).
 By default it makes a "two-pass" type of encoding.
 
 options
